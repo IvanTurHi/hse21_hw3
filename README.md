@@ -14,4 +14,22 @@ https://colab.research.google.com/drive/1QO5fApjwWv_bdPGCYVNAYb4Q12asdtJC?usp=sh
 ![image](https://user-images.githubusercontent.com/65420132/143933573-6f00b094-0794-4146-9364-97e53f7fa7b9.png)
 ![image](https://user-images.githubusercontent.com/65420132/143933608-41175a12-3f7c-4711-af9b-d0f24d3a63d4.png)
 ![image](https://user-images.githubusercontent.com/65420132/143933635-748bd389-18b7-4634-b990-096e3a92f158.png)
-![image](https://user-images.githubusercontent.com/65420132/143933650-80aeecf1-87a4-4f77-82c4-4e4d8fbf357a.png)
+![image](https://user-images.githubusercontent.com/65420132/143933650-80aeecf1-87a4-4f77-82c4-4e4d8fbf357a.png)  
+
+> Статистика по контрольному образцу SRR3414635
+![image](https://user-images.githubusercontent.com/65420132/143934078-752cdc29-383c-419f-bc20-5cb4b7f4cf2d.png)
+
+> Статистика по контрольному образцу SRR3414636
+![image](https://user-images.githubusercontent.com/65420132/143934195-e9efeae0-0549-4afb-9dcc-2248fb3af91d.png)  
+
+> Статистика по контрольному образцу SRR3414636
+![image](https://user-images.githubusercontent.com/65420132/143934241-e39a38dd-243a-428c-985e-4c1c93b2ac03.png)  
+
+> Статистика по репрограммируемому образцу SRR3414629
+![image](https://user-images.githubusercontent.com/65420132/143934305-3f872500-0c11-441d-9d7b-982f9c58c980.png)
+
+> Статистика по репрограммируемому образцу SRR3414630
+![image](https://user-images.githubusercontent.com/65420132/143934370-6f3e95f8-bca5-4b55-b155-875f4f4b4b77.png)
+
+> Статистика по репрограммируемому образцу SRR3414631
+![image](https://user-images.githubusercontent.com/65420132/143934421-f45cbd22-b586-4549-a628-3081890fb535.png)
