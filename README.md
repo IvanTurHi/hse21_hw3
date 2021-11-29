@@ -4,6 +4,7 @@ https://colab.research.google.com/drive/1GL06BQ6M9ySLy5ymZig6w1KWWUaO-dRV?usp=sh
 > Ссылка на R-ноутбук  
 https://colab.research.google.com/drive/1QO5fApjwWv_bdPGCYVNAYb4Q12asdtJC?usp=sharing
 
+## Часть 1(Python)
 > Результаты работу multiqc
 ![image](https://user-images.githubusercontent.com/65420132/143933315-8e806e26-cb6f-467f-aee8-0ba2e47a0bad.png)
 ![image](https://user-images.githubusercontent.com/65420132/143933401-fe7602b6-907b-4c83-8d00-193159b1742e.png)
@@ -33,6 +34,8 @@ https://colab.research.google.com/drive/1QO5fApjwWv_bdPGCYVNAYb4Q12asdtJC?usp=sh
 
 > Статистика по репрограммируемому образцу SRR3414631
 ![image](https://user-images.githubusercontent.com/65420132/143934421-f45cbd22-b586-4549-a628-3081890fb535.png)
+
+## Часть 2(R)
 
 > platMA, который показывает значения log2FoldChange
 ![image](https://user-images.githubusercontent.com/65420132/143944612-9675a4d7-3df2-47f8-8c9f-7c7bfdc12278.png)
