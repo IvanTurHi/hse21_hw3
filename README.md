@@ -33,3 +33,16 @@ https://colab.research.google.com/drive/1QO5fApjwWv_bdPGCYVNAYb4Q12asdtJC?usp=sh
 
 > Статистика по репрограммируемому образцу SRR3414631
 ![image](https://user-images.githubusercontent.com/65420132/143934421-f45cbd22-b586-4549-a628-3081890fb535.png)
+
+> platMA, который показывает значения log2FoldChange
+![image](https://user-images.githubusercontent.com/65420132/143944612-9675a4d7-3df2-47f8-8c9f-7c7bfdc12278.png)
+
+> pheatmap, который показывет похожесть групп образцов
+![image](https://user-images.githubusercontent.com/65420132/143945281-bc9f28c6-9201-4b48-a1e9-b1b6c27424c0.png)
+
+> Normalized counts, для контрольных и репрограммируемых образцов
+![image](https://user-images.githubusercontent.com/65420132/143945459-ae1de660-7c4c-4faf-a9bb-3d21e1edc24c.png)
+![image](https://user-images.githubusercontent.com/65420132/143945475-8c8d54de-f377-456f-8641-a892e510f862.png)
+![image](https://user-images.githubusercontent.com/65420132/143945515-8915f16e-7d1c-4e93-b5c7-8eb2d97b9612.png)
+
+
